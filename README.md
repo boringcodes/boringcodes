@@ -5,10 +5,10 @@
 
 ---
 
-<p align="center">
-💡 <em>Creo sistemas con propósito</em><br/>
+💡 <strong>Diseño sistemas con propósito:</strong>
 Desde visualizaciones interactivas impulsadas por IA hasta experiencias web modulares que combinan datos, diseño y decisiones inteligentes.
-</p>
+
+---
 
 🔧 <strong>Stack principal</strong>  
 
@@ -27,7 +27,7 @@ Desde visualizaciones interactivas impulsadas por IA hasta experiencias web modu
 
 ---
 
-### 📚 En constante aprendizaje
+📚 <strong>En constante aprendizaje</strong>
 
 Actualmente profundizando en:
 
@@ -37,7 +37,7 @@ Actualmente profundizando en:
 
 ---
 
-## 🚀 Áreas de Investigación Activa
+📚 <strong>Áreas de Investigación Activa</strong>
 
 Actualmente estoy explorando, analizando y desarrollando en estas áreas clave para impulsar soluciones innovadoras y centradas en el usuario:
 
@@ -68,6 +68,12 @@ Siempre abierto a colaborar en:
 
 > _Made with Code & Love 💜_
 
+<strong>@Farükツ</strong>
+
+---
+---
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boringcodes&show_icons=true&theme=radical" alt="Farük's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=boringcodes&show_icons=true&theme=radical" alt="Farük's GitHub Stats" />
 </p>
