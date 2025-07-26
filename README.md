@@ -1,27 +1,28 @@
 <!-- markdownlint-disable MD033 -->
 
-<h1 align="center">Hi, is Farük ツ</h1>
+<h1 align="center">Hi, this is Farükツ</h1>
 <h3 align="center">Creative Fullstack Engineer · Data Science & AI</h3>
 
 ---
 
-💡 **Creo sistemas con propósito**
-
+<p align="center">
+💡 <em>Creo sistemas con propósito</em><br/>
 Desde visualizaciones interactivas impulsadas por IA hasta experiencias web modulares que combinan datos, diseño y decisiones inteligentes.
+</p>
 
-🔧 **Stack principal**  
+🔧 <strong>Stack principal</strong>  
 
 - Frontend: React, Vite, Tailwind CSS, GSAP  
 - Backend: FastAPI, Python, PostgreSQL  
 - Data Science: Pandas, scikit-learn, Seaborn, NLP  
 - Herramientas: Git, VSCode, Linux, PowerShell
 
-🎯 **Especialidades**
+🎯 <strong>Especialidades</strong>
 
-- Desarrollo Fullstack moderno
-- Análisis y visualización de datos
-- Modelos predictivos con ML/NLP
-- Experiencias inmersivas con animaciones y performance
+- Desarrollo Fullstack moderno  
+- Análisis y visualización de datos  
+- Modelos predictivos con ML/NLP  
+- Experiencias inmersivas con animaciones y performance  
 - Arquitectura modular y escalable
 
 ---
@@ -30,8 +31,8 @@ Desde visualizaciones interactivas impulsadas por IA hasta experiencias web modu
 
 Actualmente profundizando en:
 
-- Sistemas inteligentes de recomendación
-- Optimización multicanal para campañas digitales
+- Sistemas inteligentes de recomendación  
+- Optimización multicanal para campañas digitales  
 - Nuevas formas de visual storytelling con datos
 
 ---
@@ -40,24 +41,19 @@ Actualmente profundizando en:
 
 Actualmente estoy explorando, analizando y desarrollando en estas áreas clave para impulsar soluciones innovadoras y centradas en el usuario:
 
-🤖 **Automatización inteligente:**
-
+- 🤖 <strong>Automatización inteligente:</strong>  
 Uso de IA para automatizar tareas repetitivas y potenciar la creatividad humana.
 
-📊 **Análisis de datos centrado en el usuario:**
-
+- 📊 <strong>Análisis de datos centrado en el usuario:</strong>  
 Aplicación de técnicas avanzadas para entender comportamientos y optimizar mensajes personalizados.
 
-🏗️ **Arquitecturas modulares y escalables:**
-
+- 🏗️ <strong>Arquitecturas modulares y escalables:</strong>  
 Diseño de sistemas flexibles que se adaptan rápidamente a nuevas necesidades y tecnologías.
 
-🛠️ **Selección estratégica de stacks:**
-
+- 🛠️ <strong>Selección estratégica de stacks:</strong>  
 Priorizo herramientas con buena integración y comunidades sólidas para acelerar el desarrollo.
 
-💡 **Experiencia humana primero:**
-
+- 💡 <strong>Experiencia humana primero:</strong>  
 Crear soluciones que prioricen la usabilidad y el impacto real sobre las personas, más allá de la tecnología misma.
 
 ---
@@ -73,4 +69,5 @@ Siempre abierto a colaborar en:
 > _Made with Code & Love 💜_
 
 <p align="center">
-  <a href
+  <img src="https://github-readme-stats.vercel.app/api?username=boringcodes&show_icons=true&theme=radical" alt="Farük's GitHub Stats" />
+</p>
